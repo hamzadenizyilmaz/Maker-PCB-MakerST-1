@@ -11,7 +11,7 @@ We do not produce the boards we receive without Logo `Maker PCB Studio` and `Ser
 
 - [1. Board and Microcontroller Features](#1-board-and-microcontroller-features)
   - [1.1. STM32F4 Microcontroller Family](#11-stm32f4-microcontroller-family)
-  - [1.2. Maker PCB ST-1 Board](#12-maker-pcb-st-1-board)
+  - [1.2. Maker PCB MakerST-1 Board](#12-maker-pcb-st-1-board)
 - [2. Setting Up the Development Environment](#2-setting-up-the-development-environment)
 - [3. Basic LED Blink Example](#3-basic-led-blink-example)
   - [3.1. Creating and Configuring the Project](#31-creating-and-configuring-the-project)
@@ -55,9 +55,9 @@ The STM32F4 series is renowned for its high performance and low power consumptio
   - A rich set of peripherals, including USB OTG, CAN, I2C, SPI, USART, ADC, DAC, and numerous timers.
   - Advanced models offer additional interfaces such as SDIO, FSMC/FMC, and even Ethernet MAC for complex networked applications.
 
-### 1.2. Maker PCB ST-1 Board
+### 1.2. Maker PCB MakerST-1 Board
 
-The Maker PCB ST-1 board is designed to harness the power of the STM32F4 microcontroller in a practical and user-friendly format. Notable features include:
+The Maker PCB MakerST-1 board is designed to harness the power of the STM32F4 microcontroller in a practical and user-friendly format. Notable features include:
 
 - **Pin Header Layout**:  
   - Provides organized access to both digital and analog pins, making it ideal for prototyping.
