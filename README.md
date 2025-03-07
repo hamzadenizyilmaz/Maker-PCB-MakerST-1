@@ -7,12 +7,14 @@ We do not produce the boards we receive without Logo `Maker PCB Studio` and `Ser
 
 
 
-## Buraya Yazıcak Bişi Bul
-|MCU|PB9/VCAP|PB11/VCAP|VCAP/VSS|
-| :--:|:--:| :--:|:--:|
-|STM32F405|DataSheet/ReferenceManual|
-|STM32F412|Hardware Development Kit|
-|STM32F446|Software Examples|
+## Connection Chart
+
+| **MCU**     | **PB9/VCAP**        | **PB11/VCAP**       | **VCAP/VSS**          |
+|-------------|---------------------|---------------------|-----------------------|
+| STM32F405   | R7: 0Ω, C14: NC     | R8: 0Ω, C15: NC     | C5: 2.2µF, C6: 2.2µF  |
+| STM32F412   | 0Ω, NC              | 0Ω, 4.7µF           | 4.7µF, 4.7µF          |
+| STM32F446   | 0Ω, NC              | 0Ω, 4.7µF           | 4.7µF, 4.7µF          |
+
 
 ## Sponsors
 I would like to thank them very much for supporting this project:
