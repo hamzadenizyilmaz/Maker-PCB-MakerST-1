@@ -7,7 +7,12 @@ We do not produce the boards we receive without Logo `Maker PCB Studio` and `Ser
 
 
 
-
+## Buraya Yazıcak Bişi Bul
+|MCU|PB9/VCAP|PB11/VCAP|VCAP/VSS|
+| :--:|:--:| :--:|:--:|
+|STM32F405|DataSheet/ReferenceManual|
+|STM32F412|Hardware Development Kit|
+|STM32F446|Software Examples|
 
 ## Sponsors
 I would like to thank them very much for supporting this project:
