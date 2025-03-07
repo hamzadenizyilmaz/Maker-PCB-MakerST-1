@@ -5,7 +5,6 @@ Maker PCB ST-1 is the most suitable development board for you with the power rec
 
 We do not produce the boards we receive without Logo `Maker PCB Studio` and `Serial Number`.
 
-```markdown
 # Maker PCB ST-1 and STM32F4 Project
 
 This project serves as a comprehensive guide for developing a wide range of applications using the Maker PCB ST-1 board based on STM32F4 series microcontrollers (such as STM32F405RGT6, STM32F412RET6, or STM32F446RET6). In this document, you will find in-depth information about the board and microcontroller features, the setup of the development environment, a basic LED blink example, advanced application ideas, detailed processor architecture, and various project development tips.
