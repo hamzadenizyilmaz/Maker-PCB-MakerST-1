@@ -16,7 +16,7 @@ I would like to thank them very much for supporting this project:
 
 ## What is PCBWay?
 
-![PCBWay Logo](https://makerpcb.com.tr/logo/PCBWay.png)
+![PCBWay Logo](https://makerpcb.com.tr/logo/PCBWay.jpg)
 
 PCBWAY is a professional Printed Circuit Board (PCB) manufacturer established in 2003 to support designers through every stage of design and production. It provides versatile PCB design and manufacturing services for both simple and complex projects.
 
