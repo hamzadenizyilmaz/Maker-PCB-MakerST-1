@@ -11,5 +11,5 @@ We do not produce the boards we receive without Logo `Maker PCB Studio` and `Ser
 
 ## Sponsors
 I would like to thank them very much for supporting this project:
-- **[![PCBWay Logo](https://makerpcb.com.tr/logo/0x0.png)](https://www.pcbway.com/)**
-- **[![Avnet Silica Logo](https://makerpcb.com.tr/logo/avnet_silica.5f9a8f33c2cf5.avif)](https://www.avnet.com/)**
+- **[PCBWay](https://www.pcbway.com/)**
+- **[Avnet Sılıca](https://www.avnet.com/)**
