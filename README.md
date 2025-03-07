@@ -9,8 +9,9 @@ We do not produce the boards we receive without Logo `Maker PCB Studio` and `Ser
 
 
 ## Sponsors
-I would like to thank them very much for supporting this project;
-- **PCBWay**(./images/STM32F4x1C_Logo&Version.png)
-- **Avnet Sılıca**(./images/STM32F4x1C_Logo&Version.png)
-- **STMicroelectronics**(./images/STM32F4x1C_Logo&Version.png)
-- **Özdisan**(./images/STM32F4x1C_Logo&Version.png)
+I would like to thank them very much for supporting this project:
+- **[PCBWay](https://www.pcbway.com/)**
+- **[Avnet Sılıca](https://www.avnet.com/)**
+- **[STMicroelectronics](https://www.st.com/)**
+- **[Özdisan](https://www.ozdisan.com/)**
+
