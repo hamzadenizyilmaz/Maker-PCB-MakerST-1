@@ -15,6 +15,7 @@ We do not produce the boards we receive without Logo `Maker PCB Studio` and `Ser
 | STM32F412   | 0Ω, NC              | 0Ω, 4.7µF           | 4.7µF, 4.7µF          |
 | STM32F446   | 0Ω, NC              | 0Ω, 4.7µF           | 4.7µF, 4.7µF          |
 
+## Detailed Parts List
 
 ## Sponsors
 I would like to thank them very much for supporting this project:
