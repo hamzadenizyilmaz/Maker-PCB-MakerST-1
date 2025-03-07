@@ -16,8 +16,6 @@ I would like to thank them very much for supporting this project:
 
 ## What is PCBWay?
 
-![PCBWay Logo](https://makerpcb.com.tr/logo/PCBWay.jpg)
-
 PCBWAY is a professional Printed Circuit Board (PCB) manufacturer established in 2003 to support designers through every stage of design and production. It provides versatile PCB design and manufacturing services for both simple and complex projects.
 
 ### Key Features
@@ -44,3 +42,7 @@ PCBWAY is a reliable choice for electronics projects, catering to both beginner 
    Once your order is confirmed, it moves into production and is prepared for delivery. You can track the order status and production process online.
 
 PCBWAY offers an easy, fast ordering process and strives to deliver your products as quickly as possible while maintaining top quality.
+
+![PCBWay Logo](https://makerpcb.com.tr/logo/PCBWay.jpg)
+
+## What is Avnet ?
