@@ -294,7 +294,7 @@ The STM32F4 series combined with the Maker PCB MakerST-1 board provides a robust
 Every new project is an opportunity to deepen your understanding of high-performance embedded systems, refine your design techniques, and push the boundaries of what is possible with modern microcontrollers.
 
 Happy coding and successful project development!
-```
+
 
 ## Connection Chart
 
