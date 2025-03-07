@@ -45,4 +45,80 @@ PCBWAY offers an easy, fast ordering process and strives to deliver your product
 
 ![PCBWay Logo](https://makerpcb.com.tr/logo/PCBWay.jpg)
 
-## What is Avnet ?
+## What is Avnet?
+
+![Avnet Logo](https://makerpcb.com.tr/logo/Avnet.png)
+
+Avnet is a global technology solutions provider and one of the world's largest distributors of electronic components, embedded solutions, and technology services. With over 50 years of industry experience, Avnet has built a reputation as a trusted partner for engineers, designers, and companies around the globe, empowering them to innovate and bring advanced technologies to market.
+
+### Company Overview
+
+Founded in 1921, Avnet has evolved from a modest electronics distributor into a leading global enterprise. The company is dedicated to bridging the gap between cutting-edge technology and the specific needs of its customers by leveraging:
+- A robust global supply chain.
+- Deep technical expertise.
+- A comprehensive portfolio of products and services.
+
+Avnet caters to a diverse range of industries including automotive, telecommunications, aerospace, healthcare, industrial automation, and more.
+
+### Key Features
+
+1. **Extensive Product Portfolio:**  
+   Avnet offers a vast selection of electronic components, computer products, embedded solutions, and integrated systems from top-tier manufacturers. Their portfolio includes semiconductors, passive components, connectors, and advanced digital solutions.
+
+2. **Supply Chain and Logistics Excellence:**  
+   With a sophisticated global distribution network, Avnet ensures that products are delivered efficiently and reliably. Their expertise in supply chain management, inventory control, and logistics helps in processing and shipping orders swiftly and accurately.
+
+3. **Technical Expertise and Support:**  
+   Avnet’s team of experienced engineers and technical specialists provides personalized design support, application engineering, and comprehensive after-sales service. This technical guidance assists customers in integrating complex technologies and optimizing product performance.
+
+4. **Innovation and Integrated Solutions:**  
+   Innovation is at the core of Avnet's operations. The company invests in research and development and collaborates with leading technology partners to deliver custom solutions in emerging areas such as IoT, AI, and 5G communications.
+
+5. **Global Reach with Local Presence:**  
+   Operating in over 125 countries, Avnet combines global resources with localized market insights. This extensive network ensures that customers receive tailored support and timely service no matter where they are located.
+
+6. **Quality Assurance and Regulatory Compliance:**  
+   Avnet adheres to rigorous quality control processes and international regulatory standards, ensuring that every component and service meets the highest performance and safety benchmarks.
+
+7. **Sustainability and Corporate Responsibility:**  
+   Committed to sustainable practices, Avnet implements eco-friendly policies and supports community initiatives aimed at reducing environmental impact while fostering social responsibility.
+
+### How to Order from Avnet
+
+Avnet has designed a customer-centric ordering process that accommodates both small-scale projects and large enterprise needs:
+
+1. **Registration and Account Setup:**  
+   - **Visit the Website:** Navigate to [Avnet](https://www.avnet.com) and click on the "Register" button.
+   - **Create an Account:** Provide your email, password, and company information to set up your account.
+   - **Access the Portal:** Once registered, log in to explore Avnet’s extensive product catalog and specialized services.
+
+2. **Product Search and Selection:**  
+   - **Advanced Search Tools:** Use the website's robust search features to locate the specific components or integrated solutions required for your project.
+   - **Detailed Product Information:** Each product page includes technical specifications, datasheets, and compatibility details to help you make well-informed decisions.
+
+3. **Customizing Your Order:**  
+   - **Order Options:** Tailor your order by selecting the required quantities, packaging options, and any additional services such as technical consultation or expedited shipping.
+   - **Quotation Request:** For large or complex orders, you can request a custom quotation to ensure that your needs are fully met.
+
+4. **Quotation and Consultation:**  
+   - **Expert Assistance:** Avnet’s sales and technical teams are available for consultation to help refine your order and address any technical queries.
+   - **Competitive Pricing:** Detailed quotations are provided to reflect competitive pricing along with value-added services.
+
+5. **Payment and Order Confirmation:**  
+   - **Multiple Payment Methods:** Avnet supports various payment options, including credit cards, PayPal, bank transfers, and financing solutions.
+   - **Order Confirmation:** Once payment is processed, you will receive a confirmation email outlining your order details and an estimated delivery timeline.
+
+6. **Production, Fulfillment, and Delivery:**  
+   - **Order Processing:** For custom or integrated solutions, Avnet collaborates closely with manufacturers to ensure timely production.
+   - **Shipping and Tracking:** Your order is processed through a robust logistics network, and you can track your shipment in real time until delivery.
+   - **Global Distribution:** With an extensive global network, Avnet guarantees prompt and reliable delivery across different regions.
+
+7. **After-Sales Support:**  
+   - **Ongoing Technical Assistance:** Post-delivery, Avnet offers comprehensive technical support to assist with product integration and troubleshooting.
+   - **Warranty and Returns:** The company provides robust warranty services and an efficient returns process to ensure complete customer satisfaction.
+   - **Dedicated Customer Service:** A dedicated support team is available to handle any inquiries or issues that may arise after the sale.
+
+### Why Choose Avnet?
+
+Partnering with Avnet means working with an industry leader that combines extensive product expertise, a robust global infrastructure, and a deep commitment to customer service and sustainability. Their holistic approach to technology distribution makes them an ideal choice for businesses looking to leverage advanced electronic components and integrated solutions for their projects.
+
