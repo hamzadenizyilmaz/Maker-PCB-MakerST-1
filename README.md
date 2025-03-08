@@ -7,6 +7,8 @@ We do not produce the boards we receive without Logo `Maker PCB Studio` and `Ser
 
 ---
 
+![display](https://makerpcb.com.tr/makerst-1/Images/PCB-2.png)
+
 ## Table of Contents
 
 - [1. Board and Microcontroller Features](#1-board-and-microcontroller-features)
